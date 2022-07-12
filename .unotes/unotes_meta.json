@@ -1,7 +1,40 @@
 {
   "name": "",
   "isOrdered": true,
-  "folders": {},
+  "folders": {
+    "dispari": {
+      "name": "dispari",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "palindromi": {
+      "name": "palindromi",
+      "isOrdered": true,
+      "folders": {
+        "bonus": {
+          "name": "bonus",
+          "isOrdered": true,
+          "folders": {
+            "js": {
+              "name": "js",
+              "isOrdered": true,
+              "folders": {},
+              "files": {}
+            }
+          },
+          "files": {}
+        },
+        "js": {
+          "name": "js",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {}
+    }
+  },
   "files": {
     "README": 0
   }
